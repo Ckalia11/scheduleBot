@@ -11,6 +11,3 @@ Example use cases:
   5. How well is my upcoming course rated by other students?
 
 This project uses Waterloo's OpenData API to get campus information: https://openapi.data.uwaterloo.ca/api-docs/index.html
-
-# V1
-This project is currently under development. 
